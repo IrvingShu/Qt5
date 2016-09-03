@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QtHelpProject version="1.0">
+    <namespace>org.qt-project.qtquicklayouts.550</namespace>
+    <virtualFolder>qtquicklayouts</virtualFolder>
+    <customFilter name="QtQuickLayouts 5.5.0">
+        <filterAttribute>5.5.0</filterAttribute>
+        <filterAttribute>qtquicklayouts</filterAttribute>
+    </customFilter>
+    <filterSection>
+        <filterAttribute>5.5.0</filterAttribute>
+        <filterAttribute>qtrefdoc</filterAttribute>
+        <filterAttribute>qtquicklayouts</filterAttribute>
+        <toc>
+            <section ref="qtquicklayouts-index.html" title="Qt Quick Layouts">
+                <section ref="qtquick-layouts-qmlmodule.html" title="QML Types">
+                    <section ref="qml-qtquick-layouts-columnlayout.html" title="ColumnLayout Type Reference">
+                        <section ref="qml-qtquick-layouts-columnlayout-members.html" title="List of all members"/>
+                    </section>
+                    <section ref="qml-qtquick-layouts-gridlayout.html" title="GridLayout Type Reference">
+                        <section ref="qml-qtquick-layouts-gridlayout-members.html" title="List of all members"/>
+                    </section>
+                    <section ref="qml-qtquick-layouts-layout.html" title="Layout Type Reference">
+                        <section ref="qml-qtquick-layouts-layout-members.html" title="List of all members"/>
+                    </section>
+                    <section ref="qml-qtquick-layouts-rowlayout.html" title="RowLayout Type Reference">
+                        <section ref="qml-qtquick-layouts-rowlayout-members.html" title="List of all members"/>
+                    </section>
+                </section>
+            </section>
+        </toc>
+        <keywords>
+            <keyword name="Qt Quick Layouts" id="Qt Quick Layouts" ref="qtquicklayouts-index.html"/>
+            <keyword name="Qt Quick Layouts Overview" id="Qt Quick Layouts Overview" ref="qtquicklayouts-overview.html"/>
+            <keyword name="QtQuick.Layouts" id="QtQuick.Layouts" ref="qtquick-layouts-qmlmodule.html"/>
+            <keyword name="ColumnLayout" id="QML.ColumnLayout" ref="qml-qtquick-layouts-columnlayout.html"/>
+            <keyword name="layoutDirection" id="::layoutDirection" ref="qml-qtquick-layouts-columnlayout.html#layoutDirection-prop"/>
+            <keyword name="spacing" id="::spacing" ref="qml-qtquick-layouts-columnlayout.html#spacing-prop"/>
+            <keyword name="GridLayout" id="QML.GridLayout" ref="qml-qtquick-layouts-gridlayout.html"/>
+            <keyword name="columnSpacing" id="::columnSpacing" ref="qml-qtquick-layouts-gridlayout.html#columnSpacing-prop"/>
+            <keyword name="columns" id="::columns" ref="qml-qtquick-layouts-gridlayout.html#columns-prop"/>
+            <keyword name="flow" id="::flow" ref="qml-qtquick-layouts-gridlayout.html#flow-prop"/>
+            <keyword name="layoutDirection" id="::layoutDirection" ref="qml-qtquick-layouts-gridlayout.html#layoutDirection-prop"/>
+            <keyword name="rowSpacing" id="::rowSpacing" ref="qml-qtquick-layouts-gridlayout.html#rowSpacing-prop"/>
+            <keyword name="rows" id="::rows" ref="qml-qtquick-layouts-gridlayout.html#rows-prop"/>
+            <keyword name="Layout" id="QML.Layout" ref="qml-qtquick-layouts-layout.html"/>
+            <keyword name="alignment" id="::alignment" ref="qml-qtquick-layouts-layout.html#alignment-attached-prop"/>
+            <keyword name="bottomMargin" id="::bottomMargin" ref="qml-qtquick-layouts-layout.html#bottomMargin-attached-prop"/>
+            <keyword name="column" id="::column" ref="qml-qtquick-layouts-layout.html#column-attached-prop"/>
+            <keyword name="columnSpan" id="::columnSpan" ref="qml-qtquick-layouts-layout.html#columnSpan-attached-prop"/>
+            <keyword name="fillHeight" id="::fillHeight" ref="qml-qtquick-layouts-layout.html#fillHeight-attached-prop"/>
+            <keyword name="fillWidth" id="::fillWidth" ref="qml-qtquick-layouts-layout.html#fillWidth-attached-prop"/>
+            <keyword name="leftMargin" id="::leftMargin" ref="qml-qtquick-layouts-layout.html#leftMargin-attached-prop"/>
+            <keyword name="margins" id="::margins" ref="qml-qtquick-layouts-layout.html#margins-attached-prop"/>
+            <keyword name="maximumHeight" id="::maximumHeight" ref="qml-qtquick-layouts-layout.html#maximumHeight-attached-prop"/>
+            <keyword name="maximumWidth" id="::maximumWidth" ref="qml-qtquick-layouts-layout.html#maximumWidth-attached-prop"/>
+            <keyword name="minimumHeight" id="::minimumHeight" ref="qml-qtquick-layouts-layout.html#minimumHeight-attached-prop"/>
+            <keyword name="minimumWidth" id="::minimumWidth" ref="qml-qtquick-layouts-layout.html#minimumWidth-attached-prop"/>
+            <keyword name="preferredHeight" id="::preferredHeight" ref="qml-qtquick-layouts-layout.html#preferredHeight-attached-prop"/>
+            <keyword name="preferredWidth" id="::preferredWidth" ref="qml-qtquick-layouts-layout.html#preferredWidth-attached-prop"/>
+            <keyword name="rightMargin" id="::rightMargin" ref="qml-qtquick-layouts-layout.html#rightMargin-attached-prop"/>
+            <keyword name="row" id="::row" ref="qml-qtquick-layouts-layout.html#row-attached-prop"/>
+            <keyword name="rowSpan" id="::rowSpan" ref="qml-qtquick-layouts-layout.html#rowSpan-attached-prop"/>
+            <keyword name="topMargin" id="::topMargin" ref="qml-qtquick-layouts-layout.html#topMargin-attached-prop"/>
+            <keyword name="RowLayout" id="QML.RowLayout" ref="qml-qtquick-layouts-rowlayout.html"/>
+            <keyword name="layoutDirection" id="::layoutDirection" ref="qml-qtquick-layouts-rowlayout.html#layoutDirection-prop"/>
+            <keyword name="spacing" id="::spacing" ref="qml-qtquick-layouts-rowlayout.html#spacing-prop"/>
+        </keywords>
+        <files>
+            <file>images/rowlayout-minimum.png</file>
+            <file>qtquick-layouts-qmlmodule.html</file>
+            <file>qml-qtquick-layouts-rowlayout-members.html</file>
+            <file>images/btn_prev.png</file>
+            <file>images/arrow_bc.png</file>
+            <file>images/ico_note.png</file>
+            <file>qml-qtquick-layouts-rowlayout.html</file>
+            <file>images/btn_next.png</file>
+            <file>images/home.png</file>
+            <file>images/columnlayout.png</file>
+            <file>images/ico_note_attention.png</file>
+            <file>qtquicklayouts-overview.html</file>
+            <file>images/rowlayout.png</file>
+            <file>qml-qtquick-layouts-columnlayout.html</file>
+            <file>qml-qtquick-layouts-columnlayout-members.html</file>
+            <file>qtquicklayouts-index.html</file>
+            <file>images/logo.png</file>
+            <file>qml-qtquick-layouts-layout-members.html</file>
+            <file>style/offline.css</file>
+            <file>qml-qtquick-layouts-gridlayout.html</file>
+            <file>images/bgrContent.png</file>
+            <file>images/bullet_dn.png</file>
+            <file>images/bullet_sq.png</file>
+            <file>images/gridlayout.png</file>
+            <file>qml-qtquick-layouts-gridlayout-members.html</file>
+            <file>qml-qtquick-layouts-layout.html</file>
+            <file>images/ico_out.png</file>
+        </files>
+    </filterSection>
+</QtHelpProject>

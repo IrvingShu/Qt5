@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QtHelpProject version="1.0">
+    <namespace>org.qt-project.qtimageformats.550</namespace>
+    <virtualFolder>qtimageformats</virtualFolder>
+    <filterSection>
+        <toc>
+            <section ref="qtimageformats-index.html" title="Qt Image Formats"/>
+        </toc>
+        <keywords>
+            <keyword name="Qt Image Formats" id="Qt Image Formats" ref="qtimageformats-index.html"/>
+        </keywords>
+        <files>
+            <file>images/home.png</file>
+            <file>images/arrow_bc.png</file>
+            <file>images/btn_next.png</file>
+            <file>images/btn_prev.png</file>
+            <file>images/bullet_sq.png</file>
+            <file>images/ico_note_attention.png</file>
+            <file>images/ico_note.png</file>
+            <file>images/bullet_dn.png</file>
+            <file>style/style.css</file>
+            <file>qtimageformats-index.html</file>
+            <file>images/ico_out.png</file>
+            <file>images/logo.png</file>
+            <file>images/bgrContent.png</file>
+            <file>index.html</file>
+            <file>style/offline.css</file>
+        </files>
+    </filterSection>
+</QtHelpProject>
